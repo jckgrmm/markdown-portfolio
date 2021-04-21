@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of ya boi dwayne](https://www.engr.washington.edu/files/facresearch/newfaculty/2013/imgs/DwayneArola_lg.jpg)
